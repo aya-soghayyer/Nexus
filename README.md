@@ -11,8 +11,8 @@ Nexus is a frontend web application developed as a part of a job task. It is des
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
   
-## Overview HobbyCue 
-is a responsive and user-friendly web application built using React and Bootstrap. It offers a visually appealing interface with intuitive navigation, enabling users to seamlessly explore and engage with different hobbies and communities. 
+## Overview  
+HobbyCue is a responsive and user-friendly web application built using React and Bootstrap. It offers a visually appealing interface with intuitive navigation, enabling users to seamlessly explore and engage with different hobbies and communities. 
 
 ## Features
 - **Explore Hobbies:** Browse a diverse range of hobbies and interests.
