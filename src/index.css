@@ -1,0 +1,33 @@
+.purple{
+    color: #8064A2;
+}
+.borderr{
+    border-color: #8064A2 !important;
+}
+.blu{
+    color: #0096C8;
+}
+.bg-purple{
+    background-color: #8064A2 !important;
+}
+
+.sec-banner{
+    background-color:#F7FDFF ;
+}
+.testimonial{
+    background-color: #F7F5F9;
+}
+.logos{
+    background-color: #e6e6e6;
+}
+.logo{
+    color: #747474;
+}
+
+.bgg-white{
+    background-image: url(/src/assets/job.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
