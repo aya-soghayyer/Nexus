@@ -43,7 +43,8 @@ HobbyCue is a responsive and user-friendly web application built using React and
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
 
-## Acknowledgements Special thanks to the developers and contributors of the following libraries and tools used in this project: 
+## Acknowledgements
+Special thanks to the developers and contributors of the following libraries and tools used in this project: 
 - React
 - Bootstrap
 - React Bootstrap
