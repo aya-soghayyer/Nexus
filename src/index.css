@@ -31,3 +31,29 @@
     z-index: -1;
 }
 
+
+/* src/App.css */
+.custom-button {
+    background-color: #6200ea;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #3700b3;
+}
+
+.custom-button:active {
+    background-color: #1a0080;
+}
+
+.custom-button:disabled {
+    background-color: #bdbdbd;
+    cursor: not-allowed;
+}
+

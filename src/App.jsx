@@ -1,6 +1,6 @@
 import React from 'react'
 import Event from './layout/Event';
-import NotFound from './layout/NotFound';
+import NotFound from './Components/NotFound/NotFound';
 import Routes from './Routes/Routes';
 import About from './layout/About';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';

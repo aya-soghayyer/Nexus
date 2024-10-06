@@ -135,7 +135,7 @@ const Card = () => {
         </div>
 
         <div className="row mt-5">
-          <h3 className="mb-4">Unversity's Events</h3>
+          <h3 className="mb-5">Unversity's Events</h3>
           <Swiper
             spaceBetween={50}
             slidesPerView={3}
