@@ -24,7 +24,7 @@ const Banner = () => {
                 className="fst-italic"
                 style={{ fontSize: "3.2rem", marginTop: "9rem" }}
               >
-                Explore your  
+                Explore Your  
                 <span
                   style={{
                     color: colors.secondary,
@@ -32,7 +32,7 @@ const Banner = () => {
                     marginLeft:"15px "
                   }}
                 >
-                   next
+                   Next
                 </span>
                 <span
                   style={{

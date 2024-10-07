@@ -7,6 +7,7 @@ import { FaBell } from "react-icons/fa";
 import style from "../Navbar/Navbar.module.css";
 import { NavLink } from "react-router-dom";
 import "./Navbar.module.css";
+import DarkMood from "../DarkMode/Dark";
 
 const Navbarr = () => {
   return (
@@ -44,6 +45,9 @@ const Navbarr = () => {
                   >
                     About us
                   </NavLink>
+                  <span>
+                    <DarkMood/>
+                     </span>
                   <NavLink className="fs-5" href="#">
                     <FaBell style={{ color: colors.blue }} />
                   </NavLink>

@@ -5,7 +5,8 @@ import Footer from "../Components/Footer/Footer.jsx";
 import Hobby from "./Hobby";
 import Navbarr from "./Navbar/Navbar.jsx";
 import Top from "./Top";
-
+import NotFound from '../Components/NotFound/NotFound.jsx'
+import DarkMode from './DarkMode/Dark.jsx' 
 export {
     Navbarr,
     Banner,
@@ -14,4 +15,7 @@ export {
     Hobby,
     Footer,
     Top,
+    NotFound,
+    DarkMode
+
 }
